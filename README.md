@@ -22,7 +22,7 @@ class Attributes(Vrxx):
 	
 	@staticmethod
 	def life() -> tuple:
-		langs         = ['Russia', 'English', 'Vietnam']
+		langs         = ['Russian', 'English', 'Vietnam']
 		age           = 16
 		
 		return langs, age
